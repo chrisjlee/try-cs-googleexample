@@ -4,7 +4,11 @@ using System.Web;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace Dela.Mono.Examples
+/**
+ * Just trying out this particular example
+ * http://www.codeproject.com/Articles/9407/Introduction-to-Mono-Your-first-Mono-app
+ */
+namespace Chrisjlee.Mono.Examples
 {
    class GoogleSearch
    {
